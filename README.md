@@ -1,4 +1,4 @@
-# Hi, I'm Sai Vaishnav 👋
+#                                                         Hi, I'm Sai Vaishnav 👋
 
 ### Pursuing B.E. in Electronics and Communication Engineering | Aspiring Software Developer | AI/ML Enthusiast
 
@@ -37,9 +37,7 @@ I'm passionate about software development, problem-solving, machine learning, an
 
 ### ☁️ Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
