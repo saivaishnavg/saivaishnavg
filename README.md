@@ -78,14 +78,6 @@ An embedded systems project focused on detecting obstacles using an ultrasonic s
 
 ---
 
-## 📈 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saivaishnavg&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saivaishnavg&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🎯 Current Focus
 
 - Strengthening data structures and algorithms
